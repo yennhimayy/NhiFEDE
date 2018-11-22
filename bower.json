@@ -1,0 +1,20 @@
+{
+  "name": "nhinhi99",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Yen Nhi"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/yennhimayy/Nhigit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
